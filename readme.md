@@ -37,7 +37,7 @@ The task focuses on understanding real-world version control workflows followed 
 
 3️⃣ **File Tracking & Commits**
 - git status
-- ngit add .
+- git add .
 - git commit -m "Initial commit"
 
 
