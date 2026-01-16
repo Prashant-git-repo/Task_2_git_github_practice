@@ -31,23 +31,23 @@ The task focuses on understanding real-world version control workflows followed 
 
 
 2️⃣ **Initialize Git Repository**
-  git init
-  git branch -m main
+- git init
+- git branch -m main
 
 
 3️⃣ **File Tracking & Commits**
-  git status
-  git add .
-  git commit -m "Initial commit"
+- git status
+- ngit add .
+- git commit -m "Initial commit"
 
 
 4️⃣ **GitHub Integration**
-  git remote add origin https://github.com/Prashant-git-repo/Task_2_git_github_practice.git
-  git push -u origin main
+- git remote add origin https://github.com/Prashant-git-repo/Task_2_git_github_practice.git
+- git push -u origin main
 
 
 5️⃣ **Branching & Merging**
-  git checkout -b other-branch
-  git merge other-branch
+- git checkout -b other-branch
+- git merge other-branch
 
 
